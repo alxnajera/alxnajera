@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alxnajera
-- 👀 I’m interested in finding people interested on new opportunities within the US, Europe and Mexico. 
+- 👀 I’m interested in finding people looking for new opportunities within the US, Europe and Mexico. 
 - 🌱 I’m currently looking for Embedded Software Engineers, Sr. Big Data Engineers, Big Data Architects, etc.
 - 💞️ I’m looking to collaborate on Biotech, big pharma, CRO, Software Engineering.
 - 📫 How to reach me/ please feel free to reach: alex.najera@discoverinternational.com and +1 4159064746
